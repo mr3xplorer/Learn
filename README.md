@@ -8,7 +8,6 @@ I'm Vasanthabalaji, tech enthusiast with a passion for all things cloud-related.
 ![Learning](docs/img/learn.png)
 
 Happy Learning!
-
 ----
 
 ❤️ Show Your support! 
